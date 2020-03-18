@@ -4,8 +4,8 @@
 [![jhc twitter](https://img.shields.io/badge/Twitter-@JoshDoesA-00aced.svg?style=flat&logo=twitter)](https://twitter.com/JoshDoesa)
 [![jhc website](https://img.shields.io/badge/Website-Joshua_Cook-5087B2.svg?style=flat&logo=telegram)](https://joshuacook.netlify.com)
 
-A playground for experimenting with Reinforcement Learning.
+A Jupyter Lab for experimenting with Reinforcement Learning.
 
-[TF-Agents tutorials](https://github.com/tensorflow/agents/tree/master/docs/tutorials)
+I am currently following the tutorials available from the TF-Agents library: [TF-Agents tutorials](https://github.com/tensorflow/agents/tree/master/docs/tutorials)
 
-**To-Do**: Follow the TF-Agents tutorials and then come back to this model.
+[A Deep Q-Network to play the 'Cart-Pole game'](./notebooks/rl_cartpole.ipynb)
